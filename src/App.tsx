@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-
 import CardPokemon from "./components/CardPokemon";
 interface IParams{
     name: string
